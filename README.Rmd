@@ -43,7 +43,7 @@ The goal of `gepfsc4r` is to create the files and folders outlined in the paper 
 
 ## Installation
 
-You can install the released version of gepfsc4r from [CRAN](https://CRAN.R-project.org) with:
+You can install the Github version below:
 
 ```r
 install.packages("devtools")

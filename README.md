@@ -35,8 +35,7 @@ the paper above (and like the folder tree below)
 
 ## Installation
 
-You can install the released version of gepfsc4r from
-[CRAN](https://CRAN.R-project.org) with:
+You can install the Github version below:
 
 ``` r
 install.packages("devtools")
