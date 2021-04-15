@@ -6,10 +6,13 @@ Authors@R:
            family = "Frigaard",
            role = c("aut", "cre"),
            email = "mjfrigaard@pm.me")
-Description: This package creates folders and files following the advice in the 
-excellent paper, https: //swcarpentry.github.io/good-enough-practices-in-scientific-computing/.
+Description: This package creates folders and files following the advice in the excellent paper, https: //swcarpentry.github.io/good-enough-practices-in-scientific-computing/.
 License: CC0
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
+Imports: 
+    fs,
+    purrr,
+    readr
