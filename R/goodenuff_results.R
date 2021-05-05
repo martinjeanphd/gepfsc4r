@@ -6,8 +6,8 @@
 #'
 #' @description Create results folder with figures, tables, and manuscript sub-folders.
 goodenuff_results <- function() {
-  fs::dir_create("results")
-  fs::dir_create("results/figures")
-  fs::dir_create("results/tables")
-  fs::dir_create("results/manuscript")
+  fs::dir_create("resultats")
+  fs::dir_create("resultats/figures")
+  fs::dir_create("resultats/tableaux")
+  fs::dir_create("resultats/manuscrit")
 }
